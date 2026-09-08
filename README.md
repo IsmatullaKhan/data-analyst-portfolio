@@ -1,17 +1,18 @@
-# 👋 Hi, I'm Mohammad Ismatulla Khan
+# Hi, I'm Mohammad Ismatulla Khan 👋
 
-### 🎯 Data Analyst | Python | SQL | Power BI | Tableau | Excel
-
-📧 ismatullakhan18@gmail.com | 📍 Hyderabad, India
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mohammadismatullakhan)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/ismatullakhan)
+### 📊 Data Analyst Fresher | SQL | Python | Power BI | Tableau | Excel
 
 ---
 
 ## 👨‍💻 About Me
 
-Motivated **Data Analyst fresher** with a strong foundation in **SQL**, **Python**, **Excel**, and **Power BI**. Experienced in cleaning, analyzing, and visualizing data through academic projects and internships. Passionate about turning raw data into meaningful insights that drive business decisions.
+I'm a **Data Analyst fresher** with a strong foundation in **SQL, Python, Power BI, Tableau, and Excel**. I have hands-on experience in **data cleaning, exploratory data analysis (EDA), data visualization, trend analysis, and dashboard development**.
+
+I enjoy transforming raw data into meaningful insights and creating interactive dashboards that support **data-driven business decisions**.
+
+I completed **Data Analytics Training & Certification at Vcube Software Solutions**, gaining hands-on experience with real-world datasets and practical data analytics projects.
+
+Currently, I'm looking for an **entry-level Data Analyst opportunity** where I can apply my analytical and technical skills while continuing to grow as a data professional.
 
 ---
 
@@ -20,75 +21,94 @@ Motivated **Data Analyst fresher** with a strong foundation in **SQL**, **Python
 | Category | Tools |
 |---|---|
 | 🐍 Programming | Python (Pandas, NumPy, Matplotlib, Seaborn) |
-| 🗄️ Querying | SQL (Joins, Subqueries, Window Functions) |
-| 📊 Visualization | Power BI (DAX), Tableau, Advanced Excel |
-| 🗃️ Databases | MySQL, PostgreSQL, SQL Server |
-| 🔧 Other | Git, Jupyter Notebook, Google Sheets |
+| 🗄️ Querying | SQL (Joins, Subqueries, CTEs, Window Functions, Aggregate Functions) |
+| 📊 Visualization & BI | Power BI (DAX, Power Query), Tableau, Advanced Excel (Pivot Tables, XLOOKUP) |
+| 🗃️ Databases | SQL Server |
+| 🔍 Data Analysis | Data Cleaning, EDA, Trend Analysis, Segmentation Analysis, Dashboard Design |
+| 🔧 Tools | Jupyter Notebook, VS Code, Git |
+
+---
+
+## 🎓 Data Analytics Training
+
+**Data Analytics Training & Certification**  
+**Vcube Software Solutions | September 2025 – March 2026**
+
+- Completed hands-on training in **Python, SQL Server (SSMS), Power BI, Tableau, and Advanced Microsoft Excel**
+- Performed **data cleaning, SQL querying, exploratory data analysis (EDA), and data visualization** using real-world datasets
+- Built interactive **Power BI dashboards** and developed SQL queries for data extraction, transformation, and reporting
+- Completed hands-on assignments and projects involving **data cleaning, exploratory analysis, and database management**
 
 ---
 
 ## 📁 Projects
 
 ### 1. 🔍 [Customer Churn Analysis](https://github.com/ismatullakhan/Customer-Churn-Analysis)
-> **Tools:** Python, Pandas, Matplotlib, Seaborn
 
-- Analyzed **7,043 telecom customers** to identify churn patterns
-- Generated **6 visualizations** to highlight churn-prone segments
-- **Key Finding:** 38% of churned users were on monthly contracts with less than 3-month tenure
+> **Tools:** Python(Pandas, Numpy, Matplotlib, Seaborn)
+
+- Analyzed **7,043 telecom customers** to identify churn patterns based on tenure, contract type, monthly charges, and payment methods
+- Performed **data cleaning, preprocessing, and feature engineering** by creating tenure bands and contract-type categories
+- Developed **11 visualizations** including histograms, box plots, bar charts, and heatmaps
+- **Key Finding:** 38% of churned customers were on month-to-month contracts with less than 3 months of tenure
 
 ---
 
-### 2. 👥 [Customer Segmentation Analysis](https://github.com/ismatullakhan/Customer-Segmentation-Analysis)
-> **Tools:** Python, Pandas, Matplotlib, Seaborn
+### 2. 📊 [Sales Dashboard for Regional Performance](https://github.com/ismatullakhan/Sales-Dashboard-for-Regional-Performance)
 
-- Performed **EDA** on **10,000+ retail customer records**
-- Segmented customers into **4 groups** using **RFM Analysis**
-- **Key Finding:** Top 20% customers drove 60% of revenue
+> **Tools:** SQL, Power BI
+
+- Queried and joined **3 sales-related tables containing 25,000+ rows** using SQL joins
+- Built **10 interactive DAX measures, KPIs, and reports** to monitor regional sales, product performance, return trends, and revenue growth
+- Designed an interactive Power BI dashboard with **slicers, filters, drill-through, and time-based analysis**
+- **Key Finding:** Detected a **14% sales drop in the South region** after the festival season
 
 ---
 
 ### 3. 🛒 [Retail Sales Trend Analysis](https://github.com/ismatullakhan/Retail-Sales-Trend-Analysis)
-> **Tools:** SQL Server, Tableau, Excel | [📊 Live Dashboard](https://public.tableau.com/views/RevenuebyCategory_17810776766360/Dashboard1)
 
-- Designed relational database of **5+ tables** using SQL Server
-- Built **interactive Tableau dashboard** with 6 visualizations
-- **Key Finding:** Q4 was peak revenue quarter; Electronics top performing category
+> **Tools:** SQL Server, Tableau, Excel |
 
----
-
-### 4. 📊 Sales Dashboard for Regional Performance *(Coming Soon)*
-> **Tools:** SQL, Power BI
-
-- Queried **25,000+ rows** across 5 regions
-- Built **10 dynamic KPIs** in Power BI
-- **Key Finding:** Detected 14% sales drop post-festival in South region
+- Designed and queried a relational database with **5+ tables** using SQL Server
+- Implemented **Joins, CTEs, and Window Functions** for sales analysis
+- Cleaned, transformed, and validated raw sales data in Excel using **Pivot Tables and VLOOKUP**
+- Developed an interactive Tableau dashboard with **5 visualizations, KPI cards, filters, and trend analysis**
+- **Key Finding:** Q3 was the highest revenue quarter, with three underperforming product categories identified
 
 ---
 
-## 💼 Experience
+### 4. 👥 [Customer Segmentation Analysis](https://github.com/ismatullakhan/Customer-Segmentation-Analysis)
 
-**Data Analyst Intern** — Vcube Software Solutions, Hyderabad
-*(Sep 2025 – Feb 2026)*
-- Cleaned **50,000+ rows** of data using Excel and SQL
-- Built interactive **Power BI dashboards** for KPI tracking
-- Improved **reporting accuracy by 20%**
+> **Tools:** Python, Pandas, Matplotlib, Seaborn
+
+- Performed **Exploratory Data Analysis (EDA)** on **10,000+ retail customer records**
+- Segmented customers into **4 groups** using **RFM Analysis**
+- Analyzed customer purchasing behavior and identified high-value customer segments
+- **Key Finding:** Top 20% of customers contributed approximately **60% of revenue**
+
+---
+
+## 📜 Certifications
+
+- 🏆 **SQL (Intermediate) – HackerRank (2026)**
+- 📊 **Data Analytics Job Simulation – Deloitte Forage (2025)**
+- 📈 **Data Analytics Certification (2026)**
+- 🤖 **AI/ML Virtual Internship – EduSkills, AICTE (2024)**
 
 ---
 
 ## 🎓 Education
 
-**B.Tech Electronics and Communication Engineering**
-SRK Institute of Technology, Vijayawada | Graduated: 2025 | CGPA: 6.8/10
+**B.Tech in Electronics and Communication Engineering**  
+**SRK Institute of Technology, Vijayawada**  
+Graduated: **2025** | CGPA: **6.8 / 10**
 
 ---
 
-## 🏆 Certifications
+## 🎯 Career Objective
 
-- 📜 Data Analytics Course Completion Certificate (2026)
-- 📜 SQL Intermediate Certificate — HackerRank (2026)
-- 📜 Deloitte Data Analytics Virtual Internship — Forage (2025)
-- 📜 AI & ML Virtual Internship — EduSkills (2024)
+Seeking an **entry-level Data Analyst opportunity** where I can apply my analytical and technical skills to solve real-world business problems, uncover meaningful insights, and support data-driven decision-making.
 
 ---
 
-*Thanks for visiting! Feel free to connect with me on LinkedIn* 😊
+⭐ **Thanks for visiting my profile!**
